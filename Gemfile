@@ -46,3 +46,10 @@ group :development do
   # gem "spring"
 end
 
+# ActiveAdmin Gems
+gem "devise"
+gem "activeadmin"
+
+gem 'sprockets-rails', :require => 'sprockets/railtie'
+
+gem 'sass-rails'
